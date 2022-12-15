@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "SSS Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "SSS Lab at University of Louisville."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+We are a dynamic research group at the [Industrial Engineering at University of Louisville](https://engineering.louisville.edu/academics/departments/industrial/). Our aim is the integration of physical and machine learning models to optimize processes and product quality in advanced manufacturing, including electrospinning and additive manufacturing processes.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover" >
