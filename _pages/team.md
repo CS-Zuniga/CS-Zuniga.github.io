@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new PhD students, Postdocs, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
 
 
-Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [lab visitors](#lab-visitors).
+Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-students), [collaborators](#external-collaborators).
 
 ## Staff
 {% assign number_printed = 0 %}
@@ -74,9 +74,6 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 {% if even_odd == 1 %}
 </div>
 {% endif %}
-
-
-
 
 ## Master and Bachelor Students
 {% assign number_printed = 0 %}
@@ -165,29 +162,29 @@ Jump to [staff](#staff), [master and bachelor students](#master-and-bachelor-stu
 </div>
 {% endif %}
 -->
-## Former visitors, BSc/ MSc students
+## External Collaborators
 <div class="row">
 
 <div class="col-sm-4 clearfix">
-<h4>Visitors</h4>
-{% for member in site.data.alumni_visitors %}
+<!--<h4>Visitors</h4>-->
+{% for member in site.data.external_collaborators %}
 {{ member.name }}
 {% endfor %}
 </div>
-
+<!--
 <div class="col-sm-4 clearfix">
 <h4>Master students</h4>
 {% for member in site.data.alumni_msc %}
 {{ member.name }}
 {% endfor %}
 </div>
-
 <div class="col-sm-4 clearfix">
 <h4>Bachelor Students</h4>
 {% for member in site.data.alumni_bsc %}
 {{ member.name }}
 {% endfor %}
 </div>
+-->
 
 </div>
 
