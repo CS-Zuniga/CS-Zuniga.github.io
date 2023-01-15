@@ -59,7 +59,7 @@
 - title: "Spatiotemporal Fusion Network for the Droplet Behavior Recognition in Inkjet Printing"
   image: TBG_ARPES.png
   description: A novel feature identification framework is presented to recognize the spatiotemporal feature of in-situ monitoring videos for inkjet printing. Specifically, a spatiotemporal fusion network is used for droplet printing behavior classification. The categories are based on inkjet printability, which is related to both the static features (ligament, satellite, and meniscus) and dynamic features (ligament thinning, droplet pinch off, meniscus oscillation). For the recorded droplet jetting video data, two streams of networks, the frames sampled from video in spatial domain (associated with static features) and the optical flow in temporal domain (associated with dynamic features), are fused in different ways to recognize the droplet evolving behavior
-  authors: Jida Huang, Tianjiao Wang, Luis Javier Segura, Gayatri Shirish Joshi, Hongyue Sun, Chi Zhou  link:
+  authors: Jida Huang, Tianjiao Wang, Luis Javier Segura, Gayatri Shirish Joshi, Hongyue Sun, Chi Zhou  
   link:
     url: https://par.nsf.gov/servlets/purl/10212289
     display: (2020)
