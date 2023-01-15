@@ -1,5 +1,5 @@
 - title: "Teeth Mold Point Cloud Completion via Data Augmentation and Hybrid RL-GAN"
-  image: imageaward_edited.png
+  image: TeethScan.png
   description: systematic framework including a two-step data augmentation (DA) technique to augment the limited teeth PCs and a hybrid deep learning (DL) method to complete the incomplete PCs.
   authors: Juan Diego Toscano, Christian Zuniga-Navarrete, Wilson David Jo Siu, Luis Javier Segura, Hongyue Sun
   link:
@@ -8,27 +8,27 @@
   highlight: 1
 
 - title: "Improving glass‐fiber epoxy composites via interlayer toughening with polyacrylonitrile/multiwalled carbon nanotubes electrospun fibers"
-  image: BSCCOgap.png
+  #image: BSCCOgap.png
   description: In this work we report an original procedure for manufacturing glass-fiber epoxy reinforced nanocomposites (GFECs) by employing electrospun fiber-mats as a reinforcing phase. These fibers have been produced from polyacrylonitrile and multiwalled carbon nanotubes solutions. Optimal protocols are designed by combining Taguchi method with the morphological, structural and mechanical properties obtained by scanning electron microscopy, profilometry and tensile tests. 
   authors: Christian Narváez‐Muñoz, Camilo Zamora‐Ledezma, Pavel Ryzhakov, Jordi Pons‐Prats, Jeevithan Elango, Carlos Mena, Freddy Navarrete, Víctor Morales‐Flórez, Rafael Cano‐Crespo, Luis Javier Segura
   link:
     url: https://onlinelibrary.wiley.com/doi/pdf/10.1002/app.53400 
     display: (2022)
-  highlight: 1
+  highlight: 0
 
 - title: "Estimation of the Dynamic Elastic Properties and Energy Dissipation Capacity of Wood from Ochroma Pyramidale (Balsa)"
-  image: Pairs3.png
+  #image: Pairs3.png
   description: The objectives of this study are to determine, evaluate, and analyze the dynamic elastic properties and energy dissipation capacity of senile lightweight balsawood. To achieve these objectives, in accordance with the current American Society for Testing and Materials (ASTM) standards, a total of 40 specimens (i.e., 20 low-density and 20 high-density samples) were tested under static bending mechanical mode and technics of transversal vibration to determine static and dynamic Modulus of Elasticity (MOE), respectively.
   authors: Christian Narváez-Muñoz, Luis Javier Segura, Andrea López López, Andrés García, Oswaldo Mauricio González, Edison E Haro
   link:
     url: https://www.researchgate.net/profile/Christian-Narvaez-Munoz/publication/359753349_Estimation_of_the_Dynamic_Elastic_Properties_and_Energy_Dissipation_Capacity_of_Wood_from_Ochroma_Pyramidale_Balsa/links/62592d7f9be52845a9054388/Estimation-of-the-Dynamic-Elastic-Properties-and-Energy-Dissipation-Capacity-of-Wood-from-Ochroma-Pyramidale-Balsa.pdf 
     display: (2021)
-  highlight: 1
+  highlight: 0
 #  news1:   <a style="color:#FF0000" href="https://www.nature.com/articles/s41567-021-01468-w">Featured as 'Research Highlight' in Nature Physics by David Abergel</a>
 #  news2: See [Physics World](https://physicsworld.com/a/cooper-pairs-spotted-above-critical-temperature-for-superconductivity/), [SRON news](https://www.sron.nl/news/5169-elektronparen-blijven-stabiel-boven-kritische-temperatuur-supergeleiding), [TU Delft news](https://www.tudelft.nl/en/2021/eemcs/inexplicably-stable-electron-pairs-without-superconductivity), [Leiden news](https://www.universiteitleiden.nl/en/news/2021/10/new-quantum-liquid-discovered).
 
 - title: "Deformation Analysis of 3D Printed Metacarpophalangeal and Interphalangeal Joints via Transfer Learning"
-  image: TBG_SL.png
+  #image: TBG_SL.png
   description: we print the personalized metacarpal casts/braces (MCB) via fused deposition modeling (FDM), and investigate their mechanical properties to ensure the desired functionality. However, printing the full-size MCB is time-consuming (takes more than 11 hours in our design), making it hard to collect a sufficient data set for the mechanical properties investigation. Here, we explore the utilization of reduced-size MCB to facilitate the analysis of full-size MCB via transfer learning. In particular, three critical process variables (i.e., raster width, layer height, and extrusion temperature) were varied, and a universal testing machine was used to measure the total deformation of the MCB. 
   authors: Juan Diego Toscano, Sahand Hajifar, Christian Oswaldo Segura, Luis Javier Segura, Hongyue Sun
 #  link:
@@ -38,53 +38,52 @@
 #  news2:
 
 - title: "Online droplet anomaly detection from streaming videos in inkjet printing"
-  image: TBG_SL.png
+  image: DropletAnomaly.png
   description: The objective of this work is to build an analytical framework that allows for online droplet anomaly detection from droplet videos. There are several challenges that have not been addressed before (1) the features of the droplet videos need to be extracted in an online fashion; and (2) there is no well-defined baseline to support the droplet anomalies detection, due to the complex process dynamics. Here, we propose a novel online framework to efficiently detect the anomalies from process streaming videos. In particular, we extend the multivariate Bayesian online change detection (BOCD) framework to high-dimensional data (i.e., tensor data of droplet videos) by leveraging online tensor factorization (OTF).
   authors: Luis Javier Segura, Tianjiao Wang, Chi Zhou, Hongyue Sun
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2214860420312070
-    display:  (2021)
+    display:  Additive Manufacturing 38 (2021)
   highlight: 1
 #  news2: See also [arXiv:2107.14716](https://arxiv.org/abs/2107.14716)
 
 - title: "Unsupervised learning for the droplet evolution prediction and process dynamics understanding in inkjet printing"
-  image: YSR.png
+  image: DropletPrediction.png
   description: this paper takes the video data as the study subject to investigate the droplet evolution behavior in the inkjet printing process. Moreover, this paper introduces a deep learning method for the study of such video data. Compared to most of the current learning approaches conducted in a supervised/semi-supervised manner for manufacturing process data, we propose an unsupervised learning method for studying the flow pattern of the droplet, which does not require well-defined ground-truth labels. Regarding the spatial and temporal transformation of the droplet in video data, we apply a deep recurrent neural network (DRNN) to implement the proposed unsupervised learning. To verify the hypothesis that the proposed method can learn a latent representation for reproducing original data, the proposed DRNN is trained and tested on both simulation and experimental datasets. Experimental results demonstrate that the proposed method can learn latent representations of the droplet jetting process video data, which is very useful for the prediction of the droplet behavior.
   authors: Jida Huang, Luis Javier Segura, Tianjiao Wang, Guanglei Zhao, Hongyue Sun, Chi Zhou
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2214860420305698
-    display: (2020)
+    display: Additive Manufacturing Volume 35 (2020)
   highlight: 1
 
 - title: "Spatiotemporal Fusion Network for the Droplet Behavior Recognition in Inkjet Printing"
-  image: TBG_ARPES.png
+  image: BehaviorRecognition.png
   description: A novel feature identification framework is presented to recognize the spatiotemporal feature of in-situ monitoring videos for inkjet printing. Specifically, a spatiotemporal fusion network is used for droplet printing behavior classification. The categories are based on inkjet printability, which is related to both the static features (ligament, satellite, and meniscus) and dynamic features (ligament thinning, droplet pinch off, meniscus oscillation). For the recorded droplet jetting video data, two streams of networks, the frames sampled from video in spatial domain (associated with static features) and the optical flow in temporal domain (associated with dynamic features), are fused in different ways to recognize the droplet evolving behavior
   authors: Jida Huang, Tianjiao Wang, Luis Javier Segura, Gayatri Shirish Joshi, Hongyue Sun, Chi Zhou  
   link:
     url: https://par.nsf.gov/servlets/purl/10212289
-    display: (2020)
-  highlight: 0
-  news2:
-
+    display: ASME 2020 15th International MSEC
+  highlight: 1
+#  news2:
 
 - title: "A machine learning approach to model the electrospinning process of biocompatible materials"
-  image: TBG_ARPES.png
+  #image: TBG_ARPES.png
   description: this paper systematically studies the electrospinning process of a biocompatible polymer (i.e., polyacrylonitrile (PAN) 10%) via experimental study and data-driven modeling. In particular, three critical process variables (i.e., voltage, tip-to-collector distance, and polymer flow rate), are varied in a central composite design of experiment. Twenty-four runs are executed for the data collection, during which the in-situ measurements are collected via a customized sensing system. After each experiment, scanning electron microscope (SEM) images are taken from the nonwoven mats and characterized to capture the diameter and the diameter variations. Three machine learning methods, Lasso, random forest (RF), and support vector machine (SVM), are applied to the collected data. 
   authors: Juan Diego Toscano, Zebin Li, Luis Javier Segura, Hongyue Sun
   link:
     url: https://asmedigitalcollection.asme.org/MSEC/proceedings-abstract/MSEC2020/84263/V002T06A031/1095713
-    display:  (2020)
-  highlight: 1
+    display:  ASME 15th MSEC (2020)
+  highlight: 0
 #  news2: News coverage by <a href="https://www.nrc.nl/nieuws/2020/09/28/slome-elektronen-maken-grafeen-supergeleidend-a4013840"> NRC </a>
 
 - title: "Sketch-based tensor decomposition for non-parametric monitoring of electrospinning processes"
-  image: Direct.png
+  #image: Direct.png
   authors: Luis Javier Segura, Christian Narváez Muñoz, Chi Zhou, Hongyue Sun
   description: This work aims to designing a fast process monitoring tool from scratch for monitoring the dynamic electrospinning process based on the Taylor cone and jet videos. Nevertheless, this is challenging since the videos are of high frequency and high dimension, and the monitoring statistics may not have a parametric distribution. To achieve this goal, a framework integrating image analysis, sketch-based tensor decomposition, and non-parametric monitoring, is proposed. In particular, we use Tucker tensor-sketch (Tucker-TS) based tensor decomposition to extract the sparse structure representations of the videos. Additionally, the extracted monitoring variables are non-normally distributed, hence non-parametric bootstrap Hotelling T2 control chart is deployed to handle this issue during the monitoring. The framework is demonstrated by electrospinning a PAN-based polymeric solution. 
   link:
     url: https://par.nsf.gov/servlets/purl/10212290
-    display:  (2020)
-  highlight: 1
+    display:  ASME 15th MSEC (2020)
+  highlight: 0
 #  news2:
 
 - title: "Nearest neighbor gaussian process emulation for multi-dimensional array responses in freeze nano 3d printing of energy devices"
@@ -93,18 +92,18 @@
   description: The objective of this work is to build an efficient emulator for the physical model. There are several challenges unaddressed before (1) the solidification time at various locations, which is a multi-dimensional array response, needs to be modeled and (2) the construction and evaluation of the emulator at new process settings need to be quick and accurate. Here, we integrate joint tensor decomposition and nearest neighbor Gaussian process (NNGP) to construct an efficient multi-dimensional array response emulator with process settings as inputs. Specifically, structured joint tensor decomposition decomposes the multi-dimensional array responses at various process settings into the setting-specific core tensors and shared low-dimensional factorization matrices. 
   link:
     url: https://par.nsf.gov/servlets/purl/10132645
-    display:  (2020)
+    display:  J. Comput. Inf. Sci. Eng. (2020)
   highlight: 0
 #  news2:
 
 - title: "Gaussian process tensor responses emulation for droplet solidification in freeze nano 3D printing of energy products"
-  image: TBG_ARPES.png
+  image: Freeze3D.png
   description: In this paper, we integrate machine learning (i.e., tensor decomposition) methods and physical models to emulate the tensor responses of droplet solidification time from the physical based models. The tensor responses are factorized with joint tensor decomposition, and represented with low dimensional vectors. We then model these low dimensional vectors with Gaussian process models. We demonstrate the proposed framework for emulating the physical models of freeze nano 3D printing, which can help the future real-time process optimization.
   authors: Luis Javier Segura, Guanglei Zhao, Hongyue Sun, Chi Zhou
   link:
     url: https://par.nsf.gov/servlets/purl/10132676
-    display:  (2019)
-  highlight: 0
+    display:  ASME 14th MSEC (2019)
+  highlight: 1
 #  news2:
 
 - title: "Experimental study of the incidence of changing a synthetic jet orifice in heat transfer using a Taguchi method approach"
@@ -113,7 +112,7 @@
   authors: Juan Sebastian Cano, Gustavo David Cordova, Christian Narvaez, Luis Segura, Luis Carrion
   link:
     url: https://asmedigitalcollection.asme.org/thermalscienceapplication/article-abstract/11/3/031011/369176/Experimental-Study-of-the-Incidence-of-Changing-a?redirectedFrom=fulltext
-    display:  (2019)
-  highlight: 1
+    display: J. Thermal Sci. Eng. Appl. (2019)
+  highlight: 0
 #  news2:
 
