@@ -11,7 +11,7 @@
 
 - name: Luis Javier Segura
   photo: SeguraLuis.jpg
-  info: Associate professor, started Jan 2022
+  info: Asistant professor, started Jan 2022
   email: ljsegu01@louisville.edu
   number_educ: 3
   education1: B.Sc. in Mechanical Engineering from Universidad de las Fuerzas Armadas-ESPE, Ecuador
@@ -25,12 +25,13 @@
   number_educ: 1
   education1: B.Sc. in Electronics, Automation and Control Engineering from Universidad de las Fuerzas Armadas-ESPE, Ecuador
 
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+
+#- name: "This could be you !"
+#  photo: rock.jpg
+#  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+#  email: milan.allan@gmail.com
+#  number_educ: 0
+#  education1:
+#  education2:
+#  education3:
+#  education4:
