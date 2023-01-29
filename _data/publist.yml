@@ -49,12 +49,12 @@
 
 - title: "Unsupervised learning for the droplet evolution prediction and process dynamics understanding in inkjet printing"
   image: DropletPrediction.png
-  description: this paper takes the video data as the study subject to investigate the droplet evolution behavior in the inkjet printing process. Moreover, this paper introduces a deep learning method for the study of such video data. Compared to most of the current learning approaches conducted in a supervised/semi-supervised manner for manufacturing process data, we propose an unsupervised learning method for studying the flow pattern of the droplet, which does not require well-defined ground-truth labels. Regarding the spatial and temporal transformation of the droplet in video data, we apply a deep recurrent neural network (DRNN) to implement the proposed unsupervised learning. To verify the hypothesis that the proposed method can learn a latent representation for reproducing original data, the proposed DRNN is trained and tested on both simulation and experimental datasets. Experimental results demonstrate that the proposed method can learn latent representations of the droplet jetting process video data, which is very useful for the prediction of the droplet behavior.
+  description: This paper takes the video data as the study subject to investigate the droplet evolution behavior in the inkjet printing process. Moreover, this paper introduces a deep learning method for the study of such video data. Compared to most of the current learning approaches conducted in a supervised/semi-supervised manner for manufacturing process data, we propose an unsupervised learning method for studying the flow pattern of the droplet, which does not require well-defined ground-truth labels. Regarding the spatial and temporal transformation of the droplet in video data, we apply a deep recurrent neural network (DRNN) to implement the proposed unsupervised learning. To verify the hypothesis that the proposed method can learn a latent representation for reproducing original data, the proposed DRNN is trained and tested on both simulation and experimental datasets. Experimental results demonstrate that the proposed method can learn latent representations of the droplet jetting process video data, which is very useful for the prediction of the droplet behavior.
   authors: Jida Huang, Luis Javier Segura, Tianjiao Wang, Guanglei Zhao, Hongyue Sun, Chi Zhou
   link:
     url: https://www.sciencedirect.com/science/article/pii/S2214860420305698
     display: Additive Manufacturing Volume 35 (2020)
-  highlight: 1
+  highlight: 0
 
 - title: "Spatiotemporal Fusion Network for the Droplet Behavior Recognition in Inkjet Printing"
   image: BehaviorRecognition.png
@@ -63,7 +63,7 @@
   link:
     url: https://par.nsf.gov/servlets/purl/10212289
     display: ASME 2020 15th International MSEC
-  highlight: 1
+  highlight: 0
 #  news2:
 
 - title: "A machine learning approach to model the electrospinning process of biocompatible materials"
