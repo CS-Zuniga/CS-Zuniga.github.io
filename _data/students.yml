@@ -8,16 +8,16 @@
 #  education3:
 #  education4:
 
-- name: Thijs van den Munckhof
-  photo: rock.jpg
-  info: Master student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+- name: Juan Diego Toscano
+  photo: SeguraLuis.jpg
+  info: Doctoral Fellow, Engineering- Fluids and Thermal Sciences, Brown University
+  email: juan_toscano@brown.edu
+  number_educ: 1
+  education1: B.Sc. in Mechanical Engineering from Universidad de las Fuerzas Armadas-ESPE, Ecuador
 
-- name: João van der Ven
-  photo: rock.jpg
-  info: BSc student
-  email: m.ortego.larrazabal@umail.leidenuniv.nl
-  number_educ: 0
-  education1:
+#- name: João van der Ven
+#  photo: rock.jpg
+#  info: BSc student
+#  email: m.ortego.larrazabal@umail.leidenuniv.nl
+#  number_educ: 0
+#  education1:
