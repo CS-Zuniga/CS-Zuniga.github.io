@@ -109,9 +109,11 @@ Jump to [staff](#staff), [collaborators](#external-collaborators).
 </div>
 {% endif %}
 -->
+
 ## External Collaborators
+
 {% assign number_printed = 0 %}
-{% for member in site.data.external_Collaborators %}
+{% for member in site.data.external_collaborators %}
 
 {% assign even_odd = number_printed | modulo: 2 %}
 
